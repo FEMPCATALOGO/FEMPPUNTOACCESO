@@ -29,7 +29,7 @@ classes: wide
   
 | Dominio |  Estado  |   Links   |   Issues   |   Descripción   |  Fecha Publicación |   Prefijo   | Formatos |   Liciencia | Idiomas   | 
 | -------- | -------- | --------- | ---------- | --------------- | -------- | --------- | -------- | --------- | ---------- | 
-| Infraestructuras | Innexistente | *[Repositorio](https://github.com/opencitydata/infraestructuras-puntos-wifi)*  |  *[Generar issue](https://github.com/opencitydata/infraestructuras-puntos-wifi/issues)*   | Posición y SSID de los puntos WiFi. Las utilizaciones mas importantes son: (1) Acceso gratuito (o de pago) a Internet y (2) posicinamiento a través de las coordenadas y el SSID.  |  |  |  |   |   |
+| Infraestructuras | Inexistente | *[Repositorio](https://github.com/opencitydata/infraestructuras-puntos-wifi)*  |  *[Generar issue](https://github.com/opencitydata/infraestructuras-puntos-wifi/issues)*   | Posición y SSID de los puntos WiFi. Las utilizaciones mas importantes son: (1) Acceso gratuito (o de pago) a Internet y (2) posicinamiento a través de las coordenadas y el SSID.  |  |  |  |   |   |
  
  
   
